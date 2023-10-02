@@ -1,4 +1,9 @@
 ## MT
+### 本番サイト
+- https://www.worldplus-gym.com/_mtadmin/mt.cgi?__mode=dashboard
+  - admin
+  - afUF3EiP
+
 ### テストサイト
 - http://worldplus-gym.sub.jp/
   - 【ベーシック認証】
